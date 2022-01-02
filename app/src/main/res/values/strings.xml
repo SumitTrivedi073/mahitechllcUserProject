@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">User App</string>
+    <string name="title_activity_maps">User App</string>
+    <string name="updatelocation">Update Location....</string>
+    <string name="location_permission_required">Location Permission Required</string>
+    <string name="location_notification_desc">Location notification description</string>
+    <string name="Location_permission">Location access required</string>
+    <string name="Location_permission_txt">Please give Soultab access to this  device\'s location to get your current location</string>
+    <string name="setting">Setting</string>
+    <string name="cancel_text">cancel</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "577739698345",
+    "project_id": "locationsharingusingfirebase",
+    "storage_bucket": "locationsharingusingfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577739698345:android:2b27b094f561f673cab9b8",
+        "android_client_info": {
+          "package_name": "com.mahitechllc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577739698345-dk0oho26rf4698dk9s44hlmrguobr437.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mahitechllc",
+            "certificate_hash": "c0904fdce2f4b77c496f04a2527acea2eade4d85"
+          }
+        },
+        {
+          "client_id": "577739698345-ra8vnoiguoj0bsalv6i8qjoph80bcvut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD08iLIB0XcDiOB1fUSXAAY_HutaRPn2ME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577739698345-ra8vnoiguoj0bsalv6i8qjoph80bcvut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
