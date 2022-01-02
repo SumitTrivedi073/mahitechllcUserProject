@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">User App</string>
-    <string name="title_activity_maps">User App</string>
+    <string name="app_name">Companion App</string>
+    <string name="title_activity_maps">Companion App</string>
     <string name="updatelocation">Update Location....</string>
     <string name="location_permission_required">Location Permission Required</string>
     <string name="location_notification_desc">Location notification description</string>
